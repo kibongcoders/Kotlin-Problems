@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: var x = 10
+  - text: val greeting = "Hi"
+  - text: let cost = 500
+  - text: val = 5
+  - text: name = "John"
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4377#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 17 Jun 2024 13:28:13 UTC"
+record: -1
+selected_options:
+  - 0
+  - 1
+local_check: false

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -9,8 +10,21 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Declarations" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Determine life stage based on age input" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Find the first incorrect line" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Fix declarations" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Incrementing a number until it's a multiple of 5" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Labyrinth in variables" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/What can you say about variables in Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/What is the value of a variable" />
             <option value="$PROJECT_DIR$/Topics/Writing first program/Constructing a program" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Elements of a program" />
             <option value="$PROJECT_DIR$/Topics/Writing first program/I like Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Identifier" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Name of an entry point" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/The Hello World program" />
             <option value="$PROJECT_DIR$/Topics/Writing first program/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
