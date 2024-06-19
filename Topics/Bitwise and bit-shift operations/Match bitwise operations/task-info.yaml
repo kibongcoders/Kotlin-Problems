@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - bitwise AND
+  - bitwise (inclusive) OR
+  - bitwise exclusive OR
+  - bitwise inversion
+options:
+  - inv
+  - xor
+  - or
+  - and
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14445#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

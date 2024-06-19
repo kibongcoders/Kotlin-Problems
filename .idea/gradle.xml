@@ -10,6 +10,25 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Bitwise and bit-shift operations/Existing operators" />
+            <option value="$PROJECT_DIR$/Topics/Bitwise and bit-shift operations/Match bitwise operations" />
+            <option value="$PROJECT_DIR$/Topics/Bitwise and bit-shift operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Bitwise and bit-shift operations/Unique number" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/Almost val variables" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/Creating a constant" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/Creating a dynamic greeting message" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/Creating and printing a double value of an integer input" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/What is the result" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/Why does the code work" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Calculate the cube of a float input" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Count the number of ones in a binary string" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/Data types/How to declare a type" />
+            <option value="$PROJECT_DIR$/Topics/Data types/The form of declaration without type inference" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Think as compiler" />
+            <option value="$PROJECT_DIR$/Topics/Data types/What is type inference" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Declarations" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Determine life stage based on age input" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Find the first incorrect line" />

@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: val Int n = 100
+  - text: Int n = 100
+  - text: val n = 100
+  - text: "val n: Int = 100"
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4398#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 19 Jun 2024 14:32:54 UTC"
+record: -1
+selected_options:
+  - 2
+  - 3
+local_check: false
