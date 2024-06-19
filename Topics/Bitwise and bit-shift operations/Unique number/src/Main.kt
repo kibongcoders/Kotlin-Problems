@@ -1,4 +1,8 @@
 fun main() {
-    val (a, b, c) = readLine()!!.split(" ").map { it.toInt() }
+    val (a, b, c) = readLine()!!.split(" ").map {
+        it.toInt()
+    }
+
+    println(a xor b xor c)
     // write your code here
 }
