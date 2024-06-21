@@ -1,0 +1,10 @@
+type: unsupported
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/35260#comment
+status: Solved
+feedback:
+  time: "Fri, 21 Jun 2024 14:57:54 UTC"
+record: -1
