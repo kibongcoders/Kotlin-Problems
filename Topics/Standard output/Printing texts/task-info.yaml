@@ -19,9 +19,9 @@ feedback:
 record: -1
 ordering:
   - 0
-  - 4
   - 1
-  - 3
   - 2
-  - 6
+  - 3
+  - 4
   - 5
+  - 6
