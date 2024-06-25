@@ -8,3 +8,6 @@ content:
   - Kotlin style guide. Coding conventions
   - Standard output
   - Invoking functions
+  - Standard input with Java Scanner
+  - String basics
+  - String templates
