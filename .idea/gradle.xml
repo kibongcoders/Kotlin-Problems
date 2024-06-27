@@ -14,6 +14,14 @@
             <option value="$PROJECT_DIR$/Topics/Bitwise and bit-shift operations/Match bitwise operations" />
             <option value="$PROJECT_DIR$/Topics/Bitwise and bit-shift operations/Theory" />
             <option value="$PROJECT_DIR$/Topics/Bitwise and bit-shift operations/Unique number" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Declaring boolean variables" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Decoding a specific user command" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Determine integer truthiness" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Go to the store" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Invitations and gifts" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Match operations and definitions" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Program a Boolean function" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Theory" />
             <option value="$PROJECT_DIR$/Topics/Comments/Calculating and printing a number and its square" />
             <option value="$PROJECT_DIR$/Topics/Comments/Find the correct comment" />
             <option value="$PROJECT_DIR$/Topics/Comments/Hello, Kotlin" />
@@ -35,6 +43,11 @@
             <option value="$PROJECT_DIR$/Topics/Data types/Theory" />
             <option value="$PROJECT_DIR$/Topics/Data types/Think as compiler" />
             <option value="$PROJECT_DIR$/Topics/Data types/What is type inference" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Computing an arithmetic operation and printing the result" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increment, then decrement an integer" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Order of precedence" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Value of b" />
             <option value="$PROJECT_DIR$/Topics/Invoking functions/Arguments" />
             <option value="$PROJECT_DIR$/Topics/Invoking functions/Correct statements" />
             <option value="$PROJECT_DIR$/Topics/Invoking functions/Creating a greeting message function" />
